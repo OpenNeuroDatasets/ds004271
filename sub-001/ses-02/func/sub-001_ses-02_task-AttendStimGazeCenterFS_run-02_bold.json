@@ -1,0 +1,27 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "task-ASGCFS_run-2_bold",
+	"SeriesNumber": 11,
+	"AcquisitionNumber": 11,
+	"ImageComments": "pRFgazeMod",
+	"PhilipsRescaleSlope": 3.82491,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 5.50139e-05,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.01689,
+	"PhaseEncodingDirection": "i-",
+	"RepetitionTime": 1.31698,
+	"ReconMatrixPE": 112,
+	"ImageOrientationPatientDICOM": [
+		0,
+		0.924013,
+		-0.382361,
+		-0,
+		-0.382361,
+		-0.924013	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.9.2",
+	"TaskName":"AttendStimGazeCenterFS"
+}
