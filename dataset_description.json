@@ -1,4 +1,10 @@
-{"Name": "gaze_prf",
-"BIDSVersion":  "1.1.1",
-"Authors": ["Martin Szinte","Tomas Knapen","Matthias Nau"]
+{
+    "Name": "gaze_exp",
+    "BIDSVersion": "1.1.1",
+    "Authors": [
+        "Martin Szinte",
+        "Tomas Knapen",
+        "Matthias Nau"
+    ],
+    "License": "CC0"
 }
