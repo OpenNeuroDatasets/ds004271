@@ -1,0 +1,26 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "acq-1mm-sag_T1w_3m54s_Philips",
+	"SeriesNumber": 8,
+	"AcquisitionNumber": 8,
+	"ImageComments": "sub-001_ses-anat_pRFGazeMod",
+	"PhilipsRescaleSlope": 4.25275,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00402784,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.00368,
+	"RepetitionTime": 0.00804,
+	"InversionTime": 0.95,
+	"ReconMatrixPE": 256,
+	"ImageOrientationPatientDICOM": [
+		0,
+		1,
+		0,
+		-0,
+		-0,
+		-1	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.9.2"
+}
