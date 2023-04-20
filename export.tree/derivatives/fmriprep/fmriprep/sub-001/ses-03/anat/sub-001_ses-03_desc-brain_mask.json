@@ -1,9 +1,0 @@
-{
-  "RawSources": [
-    "sub-001/ses-03/anat/sub-001_ses-03_acq-ADNI_run-01_T1w.nii.gz",
-    "sub-001/ses-03/anat/sub-001_ses-03_acq-ADNI_run-02_T1w.nii.gz",
-    "sub-001/ses-03/anat/sub-001_ses-03_acq-PHILLIPS_run-01_T1w.nii.gz",
-    "sub-001/ses-03/anat/sub-001_ses-03_acq-PHILLIPS_run-02_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
